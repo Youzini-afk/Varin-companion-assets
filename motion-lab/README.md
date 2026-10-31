@@ -3,14 +3,14 @@
 从仓库根目录进入本目录：
 
 ```sh
-cd tools/desktop-companion-motion-lab
+cd motion-lab
 npm ci
 npm run prepare:art
 npm test
 npm run serve
 ```
 
-`serve`需要Python 3，打开 `http://127.0.0.1:8765`。返回[桌宠设计](../../docs/design/desktop-companion.md)与[已选视觉资料](../../docs/design/desktop-companion-assets/README.md)。本包独立安装/运行，不接入根workspace、CI或生产打包。
+`serve`需要Python 3，打开 `http://127.0.0.1:8765`。返回[桌宠设计](https://github.com/Youzini-afk/Varin/blob/main/docs/design/desktop-companion.md)与[已选视觉资料](../source/README.md)。本包独立安装/运行，不接入根workspace、CI或生产打包。
 无运行时第三方依赖。开发依赖`@napi-rs/canvas`用于离屏Canvas2D证据，Playwright只用于 `node test/browser.mjs`（需要系统 Chromium）；不安装任何商业动画SDK。此目录是仓库内独立实验，无Host接线或执行写入，不向产品增加生产依赖。
 
 ## 真实人物素材试样

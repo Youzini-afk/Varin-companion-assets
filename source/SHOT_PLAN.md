@@ -1,6 +1,6 @@
 # 默认色分镜编排
 
-当前图像见[资产索引](README.md)，产品状态语义见[桌宠设计](../desktop-companion.md)。这是动作与过渡规划，分镜图不是已完成动画或运行状态接线。角色身份以[已选Q版母版](masters/Varin-chibi-original-reference.png)为准。
+当前图像见[资产索引](README.md)，产品状态语义见[桌宠设计](https://github.com/Youzini-afk/Varin/blob/main/docs/design/desktop-companion.md)。这是动作与过渡规划，分镜图不是已完成动画或运行状态接线。角色身份以[已选Q版母版](masters/Varin-chibi-original-reference.png)为准。
 
 ## 已选定的画风与表演基准
 

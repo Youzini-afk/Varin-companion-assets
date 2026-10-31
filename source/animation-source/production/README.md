@@ -1,6 +1,6 @@
 # 全帧原画生产资产
 
-本目录保存持续制作中的源画、可复现提取、时序和内部QA，尚非可发行桌宠动画。制作范围沿[完整方案](../../../desktop-companion-animation-production.md)，不以局部关键姿态替代全部32类和连接。
+本目录保存持续制作中的源画、可复现提取、时序和内部QA，尚非可发行桌宠动画。制作范围沿[完整方案](https://github.com/Youzini-afk/Varin/blob/345deb076f6869cc5753e287c4dfbc537d78b577/docs/design/desktop-companion-animation-production.md)，不以局部关键姿态替代全部32类和连接。
 
 - [面向用户候选](user-attention/README.md)：公共坐姿上的抬头、许可手势、完成挥手、长等待、提问理解、闭盖欢迎和轻点反馈。早期组图提取与后续局部补绘分版本保留。
 - [坐姿工作候选](seated-work/README.md)：读屏输入、滚动、轻按与开合盖来源；共享闭盖端点供休息及搬移连接。

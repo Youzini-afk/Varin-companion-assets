@@ -4,7 +4,7 @@
 
 ## 视觉依据与边界
 
-视觉依据：[工作闭环](../../docs/design/desktop-companion-assets/storyboards/01-work-cycle.png)、[提起落座](../../docs/design/desktop-companion-assets/storyboards/08-reposition-lift-and-sit.png)与[唯一身份母版](../../docs/design/desktop-companion-assets/masters/Varin-chibi-original-reference.png)。产品范围见[桌宠设计](../../docs/design/desktop-companion.md)，分镜见[动作编排](../../docs/design/desktop-companion-assets/SHOT_PLAN.md)。
+视觉依据：[工作闭环](../source/storyboards/01-work-cycle.png)、[提起落座](../source/storyboards/08-reposition-lift-and-sit.png)与[唯一身份母版](../source/masters/Varin-chibi-original-reference.png)。产品范围见[桌宠设计](https://github.com/Youzini-afk/Varin/blob/main/docs/design/desktop-companion.md)，分镜见[动作编排](../source/SHOT_PLAN.md)。
 
 第一版温柔自然小表情是唯一表演基准；playful/balanced不是候选。母版站姿仅校准身份，不替代坐姿。眼蓝固定，角色自身左侧圈丸/编发/几何饰物不镜像。自然的偶发单眼轻眨可以以后设计；不是将所有俏皮动作一概禁止，但首条不加入强wink、鼓腮或大幅摇头。
 

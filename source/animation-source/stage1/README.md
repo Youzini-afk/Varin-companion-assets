@@ -1,6 +1,6 @@
 # 动画源图与分层研究：stage 1
 
-2026-10-29阶段检查点，**NOT FINAL RIG**。返回[视觉资料索引](../../README.md)；[产品设计](../../../desktop-companion.md)；[独立debug运动实验](../../../../../tools/desktop-companion-motion-lab/README.md)。
+2026-10-29阶段检查点，**NOT FINAL RIG**。返回[视觉资料索引](../../README.md)；[产品设计](https://github.com/Youzini-afk/Varin/blob/main/docs/design/desktop-companion.md)；[独立debug运动实验](../../../motion-lab/README.md)。
 
 最终角色呈现路线是认可美术的局部分层与连续运动，**不是用debug小人或SVG代替角色成品**。本目录保存真实人物源图与初步分层；debug实验只验证时间、IK和衔接，两者分别保留。原始认可Q版身份母版不变，本目录canonical是动画源图研究，不替换身份基准。
 

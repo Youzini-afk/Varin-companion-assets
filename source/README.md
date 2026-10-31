@@ -1,6 +1,6 @@
 # 桌宠视觉资料与进度索引
 
-2026-10-29 默认配色设计checkpoint。返回[桌宠设计](../desktop-companion.md)；动作与过渡见[分镜编排](SHOT_PLAN.md)。这些图片位于设计资料目录，**不是生产加载资源、sprite sheet、已完成动画或软件功能**。
+2026-10-29 默认配色设计checkpoint。返回[桌宠设计](https://github.com/Youzini-afk/Varin/blob/main/docs/design/desktop-companion.md)；动作与过渡见[分镜编排](SHOT_PLAN.md)。这些图片位于设计资料目录，**不是生产加载资源、sprite sheet、已完成动画或软件功能**。
 
 ## 恢复时先读
 
@@ -41,13 +41,13 @@
 
 [独立道具研究](animation-source/props/README.md)保存原始atlas、凳/笔电底座/机盖的独立提取与同画布配准、复现脚本和静帧合成QA。固定开盖坐姿的道具已具备研究资源，不等于闭盖、抓握、开合或提起动画已完成；真实抬头、独立目光、自然闭眼与手态仍需补绘。
 
-[真实美术接线试样](../../../tools/desktop-companion-motion-lab/ART_STAGE2.md)保存实际 Canvas 分层渲染、静态重建、头发附件带与范围诊断。历史小幅动作影片附录制源码和 SHA，正常幅度的领口缺口也保留为补绘依据；不是最终动画验收。工作台从本目录复用相同素材，不重复归档整套源图。
+[真实美术接线试样](../motion-lab/ART_STAGE2.md)保存实际 Canvas 分层渲染、静态重建、头发附件带与范围诊断。历史小幅动作影片附录制源码和 SHA，正常幅度的领口缺口也保留为补绘依据；不是最终动画验收。工作台从本目录复用相同素材，不重复归档整套源图。
 
 [抬头与低头参考](animation-source/head-angles/README.md)保存新增俯仰原图、相似变换配准与近似面部标记点。它们是补充视角的美术参考，尚非可直接替换的运行时头部：服装和发束有生成差异，必须局部提取与接缝处理，不能用整块交叉淡化制造重影。标称角度是绘制意图，不是测得的三维角度。
 
-[v3 坐姿动画研究](../../../tools/desktop-companion-motion-lab/ART_STAGE3.md)把新增眼态、手态与颈肩补绘接入连续变形，保存 8 秒实际绘制影片和来源校验。俯仰参考尚未接入；片中头部依然是平面滚转/位移，近手运动大多被电脑遮挡，还不是完整的工作表演。
+[v3 坐姿动画研究](../motion-lab/ART_STAGE3.md)把新增眼态、手态与颈肩补绘接入连续变形，保存 8 秒实际绘制影片和来源校验。俯仰参考尚未接入；片中头部依然是平面滚转/位移，近手运动大多被电脑遮挡，还不是完整的工作表演。
 
-当前采用[完整原画动画制作方案](../desktop-companion-animation-production.md)：全帧关键画、连续中间画和明确时间轴。前述切片/局部变形试样是历史研究，不作为成品基础；不用[debug几何实验](../../../tools/desktop-companion-motion-lab/README.md)代替成品角色。
+当前采用[完整原画动画制作方案](https://github.com/Youzini-afk/Varin/blob/345deb076f6869cc5753e287c4dfbc537d78b577/docs/design/desktop-companion-animation-production.md)：全帧关键画、连续中间画和明确时间轴。前述切片/局部变形试样是历史研究，不作为成品基础；不用[debug几何实验](../motion-lab/README.md)代替成品角色。
 
 新的[面向用户原画候选](animation-source/production/user-attention/README.md)保存许可、提问、欢迎、完成及轻点关注的完整角色关键画与来源。各动作仍在补中间画、配准和连续性修订；候选数量不代表动画已完成。
 
